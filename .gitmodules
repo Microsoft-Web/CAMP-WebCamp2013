@@ -1,0 +1,24 @@
+[submodule "ASPNET-and-VS-Web-Tooling"]
+	path = DECK/ASPNET-and-VS-Web-Tooling
+	url = git@github.com:Microsoft-Web/DECK-ASPNET-and-VS-Web-Tooling.git
+[submodule "ASPNET-in-Production"]
+	path = DECK/ASPNET-in-Production
+	url = git@github.com:Microsoft-Web/DECK-ASPNET-in-Production.git
+[submodule "Keynote"]
+	path = DECK/Keynote
+	url = git@github.com:Microsoft-Web/DECK-Keynote.git
+[submodule "Build-and-Deploy-ASPNET"]
+	path = DECK/Build-and-Deploy-ASPNET
+	url = git@github.com:Microsoft-Web/DECK-Build-and-deploy-ASPNET.git
+[submodule "HTTP-Services"]
+	path = DECK/HTTP-Services
+	url = git@github.com:Microsoft-Web/DECK-HTTP-Services.git
+[submodule "Conclusion"]
+	path = DECK/Conclusion
+	url = git@github.com:Microsoft-Web/DECK-Conclusion.git
+[submodule "Realtime"]
+	path = DECK/Realtime
+	url = git@github.com:Microsoft-Web/DECK-Realtime.git
+[submodule "Modern-Web-Front-Ends"]
+	path = DECK/Modern-Web-Front-Ends
+	url = git@github.com:Microsoft-Web/DECK-Modern-Web-Front-Ends.git
