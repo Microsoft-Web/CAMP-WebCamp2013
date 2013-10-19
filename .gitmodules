@@ -22,3 +22,36 @@
 [submodule "Modern-Web-Front-Ends"]
 	path = DECK/Modern-Web-Front-Ends
 	url = git@github.com:Microsoft-Web/DECK-Modern-Web-Front-Ends.git
+[submodule "Windows-Azure-Active-Directory"]
+	path = DEMO/Windows-Azure-Active-Directory
+	url = git@github.com:Microsoft-Web/DEMO-Windows-Azure-Active-Directory.git
+[submodule "Scaling-a-Production-Website"]
+	path = DEMO/Scaling-a-Production-Website
+	url = git@github.com:Microsoft-Web/DEMO-Scaling-a-production-website.git
+[submodule "GeekQuiz-Real-Time-Charts"]
+	path = DEMO/GeekQuiz-Real-Time-Charts
+	url = git@github.com:Microsoft-Web/DEMO-GeekQuiz-Real-time-charts.git
+[submodule "GeekQuiz-Excel-Front-End"]
+	path = DEMO/GeekQuiz-Excel-Front-End
+	url = git@github.com:Microsoft-Web/DEMO-GeekQuiz-Excel-front-end.git
+[submodule "GeekQuiz-SPA-Interface"]
+	path = DEMO/GeekQuiz-SPA-Interface
+	url = git@github.com:Microsoft-Web/DEMO-GeekQuiz-SPA-Interface.git
+[submodule "GeekQuiz-Web-API-Windows-Store"]
+	path = DEMO/GeekQuiz-Web-API-Windows-Store
+	url = git@github.com:Microsoft-Web/DEMO-GeekQuiz-Web-API-Windows-Store.git
+[submodule "Visual-Studio-and-Web-Essentials"]
+	path = DEMO/Visual-Studio-and-Web-Essentials
+	url = git@github.com:Microsoft-Web/DEMO-Visual-Studio-and-Web-Essentials.git
+[submodule "Handling-Change-EF-Migrations"]
+	path = DEMO/Handling-Change-EF-Migrations
+	url = git@github.com:Microsoft-Web/DEMO-Handling-change-EF-migrations.git
+[submodule "GeekQuiz-Build-and-Deploy-ASP"]
+	path = DEMO/GeekQuiz-Build-and-Deploy-ASP
+	url = git@github.com:Microsoft-Web/DEMO-GeekQuiz-Build-and-deploy-ASP.git
+[submodule "GeekQuiz-Web-API-Backend"]
+	path = DEMO/GeekQuiz-Web-API-Backend
+	url = git@github.com:Microsoft-Web/DEMO-GeekQuiz-Web-API-backend.git
+[submodule "One-ASPNET"]
+	path = DEMO/One-ASPNET
+	url = git@github.com:Microsoft-Web/DEMO-One-ASP-NET.git
