@@ -46,12 +46,12 @@
 [submodule "Handling-Change-EF-Migrations"]
 	path = DEMO/Handling-Change-EF-Migrations
 	url = git@github.com:Microsoft-Web/DEMO-Handling-change-EF-migrations.git
-[submodule "GeekQuiz-Build-and-Deploy-ASP"]
-	path = DEMO/GeekQuiz-Build-and-Deploy-ASP
-	url = git@github.com:Microsoft-Web/DEMO-GeekQuiz-Build-and-deploy-ASP.git
 [submodule "GeekQuiz-Web-API-Backend"]
 	path = DEMO/GeekQuiz-Web-API-Backend
 	url = git@github.com:Microsoft-Web/DEMO-GeekQuiz-Web-API-backend.git
 [submodule "One-ASPNET"]
 	path = DEMO/One-ASPNET
 	url = git@github.com:Microsoft-Web/DEMO-One-ASP-NET.git
+[submodule "GeekQuiz-Build-and-Deploy-ASP"]
+	path = DEMO/GeekQuiz-Build-and-Deploy-ASP
+	url = git@github.com:Microsoft-Web/DEMO-GeekQuiz-Build-and-deploy-ASP.git
